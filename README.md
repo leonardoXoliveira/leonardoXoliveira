@@ -1,4 +1,4 @@
-## Hello there! I'm leonardoXoliveira :)
+## Hello there! I'm Leonardo Oliveira :)
 
 <div>
   <a href="https://github.com/leonardoXoliveira" />
